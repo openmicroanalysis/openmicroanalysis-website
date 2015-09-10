@@ -4,9 +4,8 @@ Events
 Microscopy and Microanalysis 2015 meeting in Portland
 -----------------------------------------------------
 
-A 2nd meeting about the openmicroanalysis project will be held in Portland during the `M&M 2015 <http://www.microscopy.org/MandM/2015/>`_.
-
-Tuesday, August 4, 4:00 - 5:00 PM, in Room B118
+A 2nd meeting about the openmicroanalysis project was in Portland 
+during the `M&M 2015 <http://www.microscopy.org/MandM/2015/>`_.
 
 European Microbeam Analysis Workshop 2015 in Portoroz
 -----------------------------------------------------
